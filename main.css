@@ -1,0 +1,32 @@
+body {
+    background-color:powderblue;
+    color: #0837e0;
+    font-family: 'Baloo Bhaijaan', cursive;
+    font-size: 40px;
+}
+
+
+p {
+   color: #007fff;
+   font-size: 30px;
+}
+
+
+img {
+     max-width: 100%;
+}
+
+a:link {
+        color: #00f921;
+
+}
+
+a:visited {
+           color: #007fff;
+
+}
+
+a:hover {
+         color: #f90000;
+
+}
